@@ -403,6 +403,18 @@
     "tags": []
   },
   {
+    "productId": "opencode-github-release",
+    "type": "plugins",
+    "displayName": "GitHub Release",
+    "repoUrl": "https://github.com/amestsantim/opencode-github-release",
+    "tagline": "Automated GitHub releases",
+    "description": "Create and publish GitHub releases with semantic versioning, tag management, and auto-generated release notes.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "opencode-ignore",
     "type": "plugins",
     "displayName": "Opencode Ignore",

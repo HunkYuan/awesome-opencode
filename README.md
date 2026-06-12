@@ -197,6 +197,15 @@
 </details>
 
 <details>
+  <summary><b>GitHub Release</b> <img src="https://badgen.net/github/stars/amestsantim/opencode-github-release" height="14"/> - <i>Automated GitHub releases</i></summary>
+  <blockquote>
+    Create and publish GitHub releases with semantic versioning, tag management, and auto-generated release notes.
+    <br><br>
+    <a href="https://github.com/amestsantim/opencode-github-release">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Google AI Search</b> <img src="https://badgen.net/github/stars/IgorWarzocha/Opencode-Google-AI-Search-Plugin" height="14"/> - <i>Query Google AI Mode (SGE)</i></summary>
   <blockquote>
     An opencode plugin that exposes a native tool for querying Google AI Mode (SGE).
