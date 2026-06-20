@@ -305,6 +305,15 @@
 </details>
 
 <details>
+  <summary><b>oc-mnemoria</b> <img src="https://badgen.net/github/stars/one-bit/oc-mnemoria" height="14"/> - <i>Persistent shared memory (hive mind) for OpenCode agents across sessions</i></summary>
+  <blockquote>
+    Gives all OpenCode agents a shared persistent memory store where every agent can read and write. Each entry is tagged with the creating agent (plan, build, ask, review) so no context is lost between roles. Powered by the mnemoria Rust engine with hybrid BM25 + semantic search, CRC32 checksum chains, and an append-only binary format. Includes 7 tools and /mn-* slash commands.
+    <br><br>
+    <a href="https://github.com/one-bit/oc-mnemoria">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Oh My Opencode</b> <img src="https://badgen.net/github/stars/code-yeongyu/oh-my-opencode" height="14"/> - <i>Agents & Pre-built tools</i></summary>
   <blockquote>
     Background agents, pre-built tools (LSP/AST/MCP), curated agents, and a Claude Code compatible layer.
@@ -427,6 +436,15 @@
     An OpenCode plugin that adds push notifications through ntfy.sh.
     <br><br>
     <a href="https://github.com/lannuttia/opencode-ntfy.sh">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>OpenCode Plan Manager</b> <img src="https://badgen.net/github/stars/yurihbm/opencode-plan-manager" height="14"/> - <i>AI-Native Implementation Planning for Modern Agentic Workflows</i></summary>
+  <blockquote>
+    High-performance, minimalist plugin designed to bridge the gap between complex implementation strategies and autonomous execution. Selective context loading, zero-hallucination schemas, visible filesystem kanban.
+    <br><br>
+    <a href="https://github.com/yurihbm/opencode-plan-manager">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -996,6 +1014,15 @@ Also available for bat and Ghostty in the same repository.
     A set of opencode configurations, prompts, agents, and plugins for enhanced development workflows.
     <br><br>
     <a href="https://github.com/darrenhinde/opencode-agents">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Python Expert Agent for OpenCode</b> <img src="https://badgen.net/github/stars/amrahman90/python-expert-agent" height="14"/> - <i>Python Expert Agent toolkit for OpenCode with subagents and skills</i></summary>
+  <blockquote>
+    A custom configurable agent toolkit includes 1 Primary Custom Agent python-expert with intelligent skill loading, Predefined Specialized Subagents for Code generation, review, testing, and exploration, On-Demand Skills for Python development projects, Context Files for Standards, patterns, and security guidelines.
+    <br><br>
+    <a href="https://github.com/amrahman90/python-expert-agent">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
