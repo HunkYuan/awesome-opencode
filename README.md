@@ -958,6 +958,15 @@ Also available for bat and Ghostty in the same repository.
 </details>
 
 <details>
+  <summary><b>agent-harness</b> <img src="https://badgen.net/github/stars/ar27111994/agent-harness" height="14"/> - <i>Reusable agent asset lifecycle for OpenCode workspaces</i></summary>
+  <blockquote>
+    A Node.js CLI for discovering, curating, staging, activating, and wiring reusable AI-agent assets into developer workspaces, including OpenCode.
+    <br><br>
+    <a href="https://github.com/ar27111994/agent-harness">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>agenttrace</b> <img src="https://badgen.net/github/stars/luoyuctl/agenttrace" height="14"/> - <i>Local TUI for OpenCode session cost, health, and trace reports</i></summary>
   <blockquote>
     Local-first Bubble Tea TUI and report CLI for inspecting OpenCode and other AI coding-agent logs with cost, tokens, latency, tool failures, anomalies, health gates, diffs, and reports.

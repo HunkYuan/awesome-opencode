@@ -1071,6 +1071,25 @@
     "tags": []
   },
   {
+    "productId": "agent-harness",
+    "type": "projects",
+    "displayName": "agent-harness",
+    "repoUrl": "https://github.com/ar27111994/agent-harness",
+    "tagline": "Reusable agent asset lifecycle for OpenCode workspaces",
+    "description": "A Node.js CLI for discovering, curating, staging, activating, and wiring reusable AI-agent assets into developer workspaces, including OpenCode.",
+    "scope": [
+      "global"
+    ],
+    "tags": [
+      "cli",
+      "agent-assets",
+      "workspace",
+      "discovery",
+      "opencode"
+    ],
+    "homepageUrl": "https://www.npmjs.com/package/@ar27111994/agent-harness"
+  },
+  {
     "productId": "agent-of-empires",
     "type": "projects",
     "displayName": "Agent of Empires",
