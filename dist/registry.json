@@ -427,6 +427,18 @@
     "tags": []
   },
   {
+    "productId": "opencode-ascii",
+    "type": "plugins",
+    "displayName": "opencode-ascii",
+    "repoUrl": "https://github.com/d3vv3/opencode-ascii",
+    "tagline": "Strip unicode characters from output and replace them by their ASCII equivalents",
+    "description": "Substitute unicode characters for ASCII. Em-dash (—) and en-dash (–) for hyphens (-); right arrow (→) for (->) and so on.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "opencode-canvas",
     "type": "plugins",
     "displayName": "Opencode Canvas",
@@ -590,6 +602,18 @@
     "tags": []
   },
   {
+    "productId": "opencode-quotes-plugin",
+    "type": "plugins",
+    "displayName": "aerovato/opencode-quotes-plugin",
+    "repoUrl": "https://github.com/aerovato/opencode-quotes-plugin",
+    "tagline": "Display inspirational quotes instead of tips",
+    "description": "Replaces the default home-page tips with inspirational quotes for a more motivating OpenCode experience.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "opencode-roadmap",
     "type": "plugins",
     "displayName": "Opencode Roadmap",
@@ -656,6 +680,18 @@
     "repoUrl": "https://github.com/iHildy/opencode-synced",
     "tagline": "Sync configs across machines",
     "description": "Enables syncing global opencode configurations across machines with public/private visibility options.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
+    "productId": "opencode-throughput",
+    "type": "plugins",
+    "displayName": "OpenCode Throughput",
+    "repoUrl": "https://github.com/Howardzhangdqs/opencode-throughput",
+    "tagline": "Real-time LLM performance monitoring",
+    "description": "Real-time LLM performance monitoring plugin for OpenCode. Tracks TTFT, TPS, latency, token usage, and cost per model with toast notifications and a TUI sidebar display.",
     "scope": [
       "global"
     ],
